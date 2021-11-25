@@ -1,7 +1,7 @@
 # Laboratório de Inteligência Artificial
 
 <ul>
-  <li>Atividade 04 - Dataset: "emprestimo.csv"</li>
-  <li>Atividade 05 - Dataset: "house.csv"</li>
-  <li>Atividade 06 - Dataset: "cars.csv"</li>
+  <li>Atividade 04 - Árvore de decisão usando Python</li>
+  <li>Atividade 05 - Regressão linear usando Python</li>
+  <li>Atividade 06 - Agrupamento K-MEANS usando Python</li>
 <ul>
